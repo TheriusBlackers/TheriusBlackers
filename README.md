@@ -1,4 +1,4 @@
-![image of Hello World]
+![image of Hello World](https://github.com/TheriusBlackers/TheriusBlackers/blob/main/img/helloworld.gif)
 
 
 *Hola soy **TheriusBlackers**, algunos me llaman Gamboacaj, o solo Gambo; soy un iniciante en la programacion,llevo alrededor de un año, me gusta leer, escribir, aprender idiomas, y sobre todo, echar codigo escuchando musica clasica*
